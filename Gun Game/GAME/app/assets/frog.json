@@ -1,0 +1,23 @@
+{
+
+"images": [
+    "assets/frog.png"
+],
+
+"framerate": 5,
+"frames": [
+    [4, 4, 32, 24, 0, 16, 12],
+    [41, 4, 32, 22, 0, 16, 11],
+    [78, 4, 30, 22, 0, 15, 11]
+],
+
+"animations": {
+    "walk": { "frames": [2, 0, 1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:0657db62489242392618adceed3a4eb2:1c48916e906e70b8a06708f630912095:8dde0dd0197344c2f9f9f01d8d204375$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

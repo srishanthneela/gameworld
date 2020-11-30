@@ -1,0 +1,23 @@
+{
+
+"images": [
+    "assets/ghost.png"
+],
+
+"framerate": 20,
+"frames": [
+    [3, 3, 14, 14, 0, 7, 7],
+    [3, 21, 14, 13, 0, 7, 6.5],
+    [3, 38, 13, 13, 0, 6.5, 6.5]
+],
+
+"animations": {
+    "walk": { "frames": [1, 0, 2] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:233bd031e7fbea9e6c1df8bc3115006a:402325558f6fa7506d5cb116f7afe3f3:b31693b259803c8d1bb23bbc8fdbb451$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
